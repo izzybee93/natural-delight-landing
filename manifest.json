@@ -1,0 +1,42 @@
+{
+    "name": "Natural Delight",
+    "short_name": "Natural Delight",
+    "icons": [
+        {
+            "src": "images/natural_delight_96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "images/natural_delight_144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "images/natural_delight_180.png",
+            "type": "image/png",
+            "sizes": "180x180"
+        },
+        {
+            "src": "images/natural_delight_1192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "images/natural_delight_256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "images/natural_delight_512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "./?homescreen=1",
+    "scope": "./",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "background_color": "#000000",
+    "theme_color": "#000000"
+}
